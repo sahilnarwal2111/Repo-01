@@ -44,3 +44,4 @@ sahilnarwal@cpe-172-192-12-58 ~ % arch -x86_64 brew install mingw-w64
 Disable this behaviour by setting HOMEBREW_NO_INSTALL_CLEANUP.
 Hide these hints with HOMEBREW_NO_ENV_HINTS (see `man brew`).
 sahilnarwal@cpe-172-192-12-58 ~ % 
+
